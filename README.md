@@ -4,7 +4,7 @@
 
 </p>
 
-This tutorial shows how to use RDP to connect with a virtual machine<br />
+This tutorial shows how to network between two virtual machines using Wireshark and PowerShell.<br />
 
 
 
@@ -26,7 +26,7 @@ This tutorial shows how to use RDP to connect with a virtual machine<br />
 
 <h2>Connection Steps</h2>
 <p>
-On the overview page of the virtual machine you created, copy the public IP address in the top right corner. We are going to need it to connect remotely to the virtual machine.
+Create a second virtual machine, but use Ubuntu as an Operating system instead of Windows.
 </p>
 
 <p float="left">
