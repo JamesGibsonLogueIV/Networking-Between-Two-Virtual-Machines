@@ -30,7 +30,7 @@ Create a second virtual machine, but use Ubuntu as an Operating system instead o
 </p>
 
 <p float="left">
-<img src="https://imgur.com/tcqwRXq.png" height="80%" width="80%"/>
+<img src="https://imgur.com/j1EK62e.png" height="80%" width="80%"/>
 <img src="https://imgur.com/OiWilPa.png" height="80%" width="80%"/>
 </p>
 <p>
