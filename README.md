@@ -52,7 +52,13 @@ Wireshark is software that allows us to see and monitor IP packets and network t
 Wireshark is software that allows us to see and monitor IP packets and network traffic. We are going to use this along with Powershell to ping and communicate with the ubuntu virtual machine.
 </p>
 
+<p>
 Select Ethernet and click on the bluefin button in the top left. We can now filter various forms of network traffic. Type ICMP.
+</p>
+
+<p>
+Select Ethernet and click on the bluefin button in the top left. We can now filter various forms of network traffic. Type ICMP.
+</p>
 
 
 <br />
