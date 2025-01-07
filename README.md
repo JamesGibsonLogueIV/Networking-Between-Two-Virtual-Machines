@@ -33,13 +33,26 @@ Create a second virtual machine, but use Ubuntu as an Operating system instead o
 <img src="https://imgur.com/j1EK62e.png" height="80%" width="80%"/>
 </p>
 <p>
-Now, you can remotely connect to the Windows virtual machine, not the Ubuntu one. Once you are there, search for Wireshark on the browser in the virtual machine and download the installer.
+Now, you can remotely connect to the Windows virtual machine, not the Ubuntu one. Once there, search for Wireshark on the virtual machine browser and download the installer.
 </p>
 
 <p>
 <img src="https://imgur.com/ZxlcLzw.png" height="80%" width="80%"/>
 </p>
 
+<p>
+Install Wireshark and choose the default settings In the installer.
+</p>
+
+<p>
+Wireshark is software that allows us to see and monitor IP packets and network traffic. We are going to use this along with Powershell to ping and communicate with the ubuntu virtual machine.
+</p>
+
+<p>
+Wireshark is software that allows us to see and monitor IP packets and network traffic. We are going to use this along with Powershell to ping and communicate with the ubuntu virtual machine.
+</p>
+
+Select Ethernet and click on the bluefin button in the top left. We can now filter various forms of network traffic. Type ICMP.
 
 
 <br />
