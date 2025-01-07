@@ -33,12 +33,12 @@ Create a second virtual machine, but use Ubuntu as an Operating system instead o
 <img src="https://imgur.com/j1EK62e.png" height="80%" width="80%"/>
 </p>
 <p>
-Now, type in remote desktop connection or RDP in your search bar.
+Now, you can remotely connect to the Windows virtual machine, not the Ubuntu one. Once you are there, search for Wireshark on the browser in the virtual machine and download the installer.
 </p>
 <br />
 
 <p>
-<img src="https://imgur.com/DjM35b3.png" height="80%" width="80%"/>
+<img src="https://imgur.com/ZxlcLzw.png" height="80%" width="80%"/>
 </p>
 
 <p>
