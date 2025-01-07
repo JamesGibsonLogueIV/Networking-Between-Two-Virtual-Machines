@@ -35,31 +35,11 @@ Create a second virtual machine, but use Ubuntu as an Operating system instead o
 <p>
 Now, you can remotely connect to the Windows virtual machine, not the Ubuntu one. Once you are there, search for Wireshark on the browser in the virtual machine and download the installer.
 </p>
-<br />
 
 <p>
 <img src="https://imgur.com/ZxlcLzw.png" height="80%" width="80%"/>
 </p>
 
-<p>
- Select Remote Desktop Connection and then paste your public IP address. Then, on the next screen, type in your username and password for your virtual machine.
-</p>
 
-<p float="left">
-<img src="https://imgur.com/czerqeF.png" height="80%" width="80%"/>
-<img src="https://imgur.com/10i9KaE.png" height="80%" width="80%"/>
-</p>
-
-<p>
- It might take a while to load, but eventually, you will connect to your virtual machine.
-</p>
-
-<p>
-<img src="https://imgur.com/CPzCtcK.png" height="80%" width="80%"/>
-</p>
-
-<p>
- In the next lesson, we will create a second virtual machine and network between them.
-</p>
 
 <br />
