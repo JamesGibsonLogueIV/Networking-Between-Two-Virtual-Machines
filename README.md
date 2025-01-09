@@ -45,7 +45,7 @@ Install Wireshark and choose the default settings In the installer.
 </p>
 
 <p>
-<img src="https://imgur.com/undefined.png" height="80%" width="80%"/>
+<img src="https://imgur.com/2AoFaaj.png" height="80%" width="80%"/>
 </p>
 
 
