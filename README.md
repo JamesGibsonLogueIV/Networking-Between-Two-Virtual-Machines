@@ -93,7 +93,7 @@ Now, let's try something else. Ping the Virtual machine again, but add -t after 
 </p>
 
 <p>
-On the Ubuntu virtual machine page in Azure, 
+Click on the resource group containing the Ubuntu virtual machine. Select the network security group of the virtual machine or nsg. Click on the settings option on the left and select inbound security rules. 
 </p>
 
 <p>
