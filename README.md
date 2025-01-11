@@ -93,11 +93,15 @@ Now, let's try something else. Ping the Virtual machine again, but add -t after 
 </p>
 
 <p>
-Click on the resource group containing the Ubuntu virtual machine. Select the network security group of the virtual machine or nsg. Click on the settings option on the left and select inbound security rules. 
+Click on the resource group containing the Ubuntu virtual machine. Select the network security group of the virtual machine or nsg. Here, we can create rules that filter out specific protocols and packets. Click on the settings option on the left and select inbound security rules. Select add and copy the settings in the picture below.
 </p>
 
 <p>
 <img src="https://imgur.com/Hi2eoEi.png" height="80%" width="80%"/>
+</p>
+
+<p>
+With this rule, all ICMP packets traveling to this virtual machine will be denied. Back on PowerShell and Wireshark, 
 </p>
 
 <p>
