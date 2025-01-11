@@ -85,6 +85,10 @@ Open up Powershell, which you can type in the search bar. Grab the private IP ad
 </p>
 
 <p>
+Now, let's try something else. Ping the Virtual machine again, but add -t after the private IP address. Now the Windows virtual machine is constantly pinging the Ubuntu virtual machine. We can stop this by messing with the firewall of the Ubuntu VM. 
+</p>
+
+<p>
 <img src="https://imgur.com/XRVEb79.png" height="80%" width="80%"/>
 </p>
 
