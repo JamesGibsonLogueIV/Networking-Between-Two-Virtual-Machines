@@ -57,6 +57,10 @@ Select Ethernet, which is highlighted blue, and click on the sharkfin button in 
 </p>
 
 <p>
+Now you can monitor all the network traffic on the windows virtual machine.
+</p>
+
+<p>
 <img src="https://imgur.com/2Tbp5RJ.png" height="80%" width="80%"/>
 </p>
 
