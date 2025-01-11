@@ -101,11 +101,15 @@ Click on the resource group containing the Ubuntu virtual machine. Select the ne
 </p>
 
 <p>
-With this rule, all ICMP packets traveling to this virtual machine will be denied. Back on PowerShell and Wireshark, 
+With this rule, all ICMP packets traveling to this virtual machine will be denied. Back on PowerShell and Wireshark, all requests will time out eventually.
 </p>
 
 <p>
 <img src="https://imgur.com/fKfrCxj.png" height="80%" width="80%"/>
+</p>
+
+<p>
+That concludes this tutorial. 
 </p>
 
 
