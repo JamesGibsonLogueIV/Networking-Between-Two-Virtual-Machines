@@ -93,6 +93,10 @@ Now, let's try something else. Ping the Virtual machine again, but add -t after 
 </p>
 
 <p>
+On the Ubuntu virtual machine page in Azure, 
+</p>
+
+<p>
 <img src="https://imgur.com/Hi2eoEi.png" height="80%" width="80%"/>
 </p>
 
