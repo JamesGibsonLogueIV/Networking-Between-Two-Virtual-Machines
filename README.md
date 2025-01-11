@@ -49,6 +49,10 @@ Install Wireshark and choose the default settings In the installer.
 </p>
 
 <p>
+Select Ethernet, which is highlighted blue, and click on the sharkfin button in the top left.
+</p>
+
+<p>
 <img src="https://imgur.com/2AoFaaj.png" height="80%" width="80%"/>
 </p>
 
