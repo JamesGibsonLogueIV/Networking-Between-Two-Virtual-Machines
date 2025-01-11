@@ -73,6 +73,10 @@ We can filter the kind of traffic we can see. If we type ICMP, for example, only
 </p>
 
 <p>
+Open up Powershell, which you can type in the search bar. Grab the private IP address of the Ubuntu virtual machine located on the virtual machine page in Azure. Type ping and then the private IP address in Powershell. Now we can see the ICMP traffic traveling between the two virtual machines.
+</p>
+
+<p>
 <img src="https://imgur.com/Knycbqg.png" height="80%" width="80%"/>
 </p>
 
