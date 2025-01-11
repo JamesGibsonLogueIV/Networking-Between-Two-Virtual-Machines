@@ -65,6 +65,10 @@ Now you can monitor all the network traffic on the windows virtual machine.
 </p>
 
 <p>
+We can filter the kind of traffic we can see. If we type ICMP, for example, only ICMP packets will appear.
+</p>
+
+<p>
 <img src="https://imgur.com/yUMPaRP.png" height="80%" width="80%"/>
 </p>
 
